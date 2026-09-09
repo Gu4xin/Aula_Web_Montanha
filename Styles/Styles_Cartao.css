@@ -1,0 +1,26 @@
+h1 {
+    color: blue;
+}
+
+.cartaozinho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-style: solid;
+    border-radius: 0.5rem;
+    padding: 0;
+    
+}
+
+.imagem {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+
+.textos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
